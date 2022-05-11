@@ -13,7 +13,7 @@ public class Main {
     }
 }
 class Auto{
-    public int cantidadPuertas = 0;
+    public int cantidadPuertas = 4;
 
     public void agregarPuertas(){
         this.cantidadPuertas++;
